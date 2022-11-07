@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'jyothijava'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE5ECA73AC2F4E3A95439A6295F15E05 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_609D8ED8E6E2406CBEE06C034CD67524 }}
           package: '*.jar'
